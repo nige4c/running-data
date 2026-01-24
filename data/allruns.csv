@@ -2866,3 +2866,4 @@ id,name,type,start_date,distance_m,moving_time_s,elapsed_time_s,average_speed_mp
 17119526525,Evening Run,Run,2026-01-20T18:15:57Z,15760.2,4708,5609,3.348,139.4,174,88,g16249551,Nike VaporFly 3 B,,87.1,16,
 17129584260,Afternoon Run,Run,2026-01-21T16:38:00Z,7806.1,2613,2739,2.987,126.8,144,56,g25952106,New Balance SC Trainer v3,,85.9,16,
 17138874849,Run with wellington pacers,Run,2026-01-22T12:22:14Z,5711.8,1822,2370,3.135,128.6,150,60,g25952106,New Balance SC Trainer v3,,86,15,
+17148279069,Long run with intervals,Run,2026-01-23T09:09:24Z,24378.7,6622,6750,3.681,150.9,170,86,g12250416,Nike Alphafly next % B,,88.5,17,
